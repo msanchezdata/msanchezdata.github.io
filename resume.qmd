@@ -17,17 +17,39 @@ Visualization, Intermediate Statistics, Applied Linear Regression, and Data Scie
 
 ## Experience
 
-`1600`
+`January 2025 - Present`
 __Statistics Tutor and Teaching Assistant__, 
+_Brigham Young University-Idaho_
+Guide 100s of students & counting in statistical concepts, problem-solving, and coursework
+Teach probability, hypothesis testing, and regression in R and Excel
+Advise professors in lectures, labs, and classroom activities
+Guide students in using statistical tools such as R and Excel for assignments
+Specialize in Business Statistics, Biostatistics, Social Science Statistics, Statistics with R, & Intermediate
+Statistics
 
-- Warden
-- Minted coins
+`August 2024 - November 2024`
+__Wisconsin Deputy Director__, Marquette Enterprises LLC/America PAC
+Succeeded in driving voter outreach in Wisconsin, closest 2024 battleground (decided by 0.86% or ~29,000
+votes)
+Analyzed canvassing results and created reports to improve strategies in a campaign & won statewide
+Maintained data accuracy for team field data, ensuring reliable insights
+Led field teams with a focus on clear communication and transparent goal-setting
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`November 2023 - February 2024`
+__Research Intern__, WPA Intelligence
+Conducted analysis on polling data and synthesized topline results into actionable insights for clients
+Developed transparent research presentations to clearly communicate statistical findings
+Utilized Excel to perform data processing, analysis, & research
+Collaborated within a team to maintain data integrity and transparent reporting practices
 
+## Projects
+'January 2025 - Present'
+__Math Lab Dashboard__
+_BYU-Idaho Data Science Society_
+Developing 3+ interactive dashboard to analyze and visualize data from BYU-Idaho's Math Lab, providing
+insights into student usage patterns, session effectiveness, and resource allocation
+Continued semester-by-semester project, leveraging R, SQL, and Quarto/Markdown to process and present key
+metrics, enabling data-driven decisions to improve lab efficiency and student support
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+# Skills
+__Political Campaigns, R(tidyverse, survey), Excel, SQL, Python, Typing Speed: 80 WPM__
